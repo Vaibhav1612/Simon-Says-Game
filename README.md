@@ -19,7 +19,7 @@ Simon Says is a classic memory game where players must repeat a sequence of colo
 
 ## Demo
 
-You can watch a screen recording of the Simon Says game [here](videos/simon-says-gameplay.mp4).
+You can download a screen recording of the Simon Says game [here](videos/simon-says-gameplay.mp4).
 
 ## Contributing
 
