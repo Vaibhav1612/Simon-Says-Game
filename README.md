@@ -17,12 +17,9 @@ Simon Says is a classic memory game where players must repeat a sequence of colo
 4. **Advance Levels:** As you progress, the game will increase the length and complexity of the sequences.
 5. **Track Your Score:** Your score will increase with each successful repetition of the sequence.
 
-## Video
+## Demo
 
-<video width="100%" controls>
-  <source src="videos/simon-says-gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+You can watch a screen recording of the Simon Says game [here](videos/simon-says-gameplay.mp4).
 
 ## Contributing
 
